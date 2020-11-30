@@ -1,2 +1,2 @@
-# raspberrypi4_robotsystem_setup_scripts_Ubuntu18.04_server
+# robotsystem_setup_scripts_Ubuntu18.04_server
 これはロボットシステム学で使う
