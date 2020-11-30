@@ -20,6 +20,8 @@ cd robotsystem_setup_scripts_Ubuntu18.04_server.git
 あとは流れに沿って打ち込むだけです。
 
 
+
+※補足
 下のURLからNetEnum5という自分のIPアドレスから、
 ルータに属する他のデバイスのIPアドレスも簡単に確認できます。
 ラズパイにわざわざディスプレイをつなげてip aしなくても、
