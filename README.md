@@ -21,7 +21,6 @@ cd robotsystem_setup_scripts_Ubuntu18.04_server.git
 
 
 下のURLからNetEnum5という自分のIPアドレスから、
-https://www.e-realize.com/netenum5.html
 ルータに属する他のデバイスのIPアドレスも簡単に確認できます。
 ラズパイにわざわざディスプレイをつなげてip aしなくても、
 pc側からラズパイにssh接続できます。
@@ -30,3 +29,5 @@ pc側からラズパイにssh接続できます。
 "IPV4アドレス"にもチェックを入れます。
 そうしたら一番右下の検索を押すと一覧が表示されます。
 その中のRaspberry....がラズパイのIPアドレスです。
+
+https://www.e-realize.com/netenum5.html
