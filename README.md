@@ -19,7 +19,7 @@ cd robotsystem_setup_scripts_Ubuntu18.04_server.git
 ```
 あとは流れに沿って打ち込むだけです。
 
-
+うまくいかなかったら、Githubのこちらのリポジトリから見れるsetup.bashの中のやつ打ち込めば大体行けます。
 
 ※補足
 下のURLからNetEnum5という自分のIPアドレスから、
