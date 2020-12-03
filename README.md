@@ -1,5 +1,5 @@
 # robotsystem_setup_scripts_Ubuntu18.04_server
-これはロボットシステム学で使うためのrasberrypiのセットアップスクリプトです。
+rasberrypiのセットアップスクリプトです。
 大したものではないので自分で打った方が問題なくていいかも。
 
 リポジトリをクローンしてください。
